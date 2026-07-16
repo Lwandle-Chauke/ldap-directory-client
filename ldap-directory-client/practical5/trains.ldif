@@ -1,0 +1,21 @@
+dn: ou=Trains,dc=assets,dc=local
+objectClass: organizationalUnit
+ou: Trains
+
+dn: cn=TGV,ou=Trains,dc=assets,dc=local
+objectClass: inetOrgPerson
+cn: TGV
+sn: TGV
+description: 574
+
+dn: cn=Eurostar,ou=Trains,dc=assets,dc=local
+objectClass: inetOrgPerson
+cn: Eurostar
+sn: Eurostar
+description: 300
+
+dn: cn=Shinkansen,ou=Trains,dc=assets,dc=local
+objectClass: inetOrgPerson
+cn: Shinkansen
+sn: Shinkansen
+description: 320
